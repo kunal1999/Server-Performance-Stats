@@ -44,6 +44,6 @@ bash ./server-stats.sh
 
 ## Project page URL
 
-Project page: https://github.com/kunal1999/Server-Performance-Stats
+Project page: https://roadmap.sh/projects/server-stats
 
 
