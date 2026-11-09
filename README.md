@@ -44,6 +44,6 @@ bash ./server-stats.sh
 
 ## Project page URL
 
-Project page: https://<your-username>.github.io/Server-Performance-Stats/
+Project page: https://kunal1999.github.io/Server-Performance-Stats/
 
-Replace the placeholder with your actual GitHub Pages URL when the project is deployed.
+
